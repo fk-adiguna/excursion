@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.title {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h4 {
+  font-size: 21px;
+  color: grey;
+  font-weight: 100;
+}
+
+#phone {
+  color: white;
+  margin-top: 25px;
+}
